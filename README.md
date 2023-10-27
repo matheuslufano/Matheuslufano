@@ -5,7 +5,8 @@
 [![gnail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/matheuslufano93@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/matheuslufano/) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+)](https://www.instagram.com/mateu.py/)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/matheus.santosmota.90)
 
 ![Matheus Lufano stats](https://github-readme-stats.vercel.app/api?username=Mathueslufano&show_icons=true&theme=radical)
