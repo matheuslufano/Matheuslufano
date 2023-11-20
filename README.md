@@ -14,7 +14,6 @@
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslufano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslufano)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que eu uso:
 
 <dive style="display:inline_block"><br/>
