@@ -9,9 +9,12 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/matheus.santosmota.90)
 
-![Matheus Lufano stats](https://github-readme-stats.vercel.app/api?username=Mathueslufano&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathueslufano)](https://github.com/anuraghazra/github-readme-stats)
+![Matheus Lufano stats](https://github-readme-stats.vercel.app/api?username=Matheuslufano&show_icons=true&theme=radical)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslufano&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslufano)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que eu uso:
 
 <dive style="display:inline_block"><br/>
@@ -22,4 +25,4 @@
     <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" >
 </dive> 
 
-Sou apaixonado por tecnologia, arte grafica e por estudar.
+Sou apaixonado por tecnologia, arte grafica e por café.
