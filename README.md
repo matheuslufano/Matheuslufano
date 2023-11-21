@@ -2,8 +2,8 @@
 ### Olá, me chamo Matheus Mota 🖖🏼 (p/amigos Matheus Lufano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/matheus-santos-mota-ab35b0283/)
-[![gnail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](href="mailto:matheuslufano93@gmail.com")
+<a href="mailto:matheuslufano93@gmail.com">![gnail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)</a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/mateu.py/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
