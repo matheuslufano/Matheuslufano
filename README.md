@@ -1,6 +1,4 @@
 ### Olá, me chamo Matheus S. Mota 🖖🏼
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/matheus-santos-mota-ab35b0283/)
 <a href="https://www.linkedin.com/in/matheus-santos-mota-ab35b0283/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )</a>
 <a href="mailto:matheuslufano93@gmail.com" target="_blank">![gnail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
