@@ -26,15 +26,20 @@ Tecnologias que eu uso:
 </dive> 
 
 Sou apaixonado por tecnologia, arte grafica e por café.
-<h1>Últimos projetos desenvolvist</h1>
+<h3>Últimos projetos desenvolvist: </h3>
 
-<h3>Projeto-Android 🤖</h3>
-Projeto Android criado no capítulo 17 do curso HTML e CSS do Curso em Vídeo <br>
-Link para acesso: https://matheuslufano.github.io/projeto-android/
+<h2 align="center">Projeto-Android 🤖</h2>
+
 <div align="center"> <br>
+    Projeto Android criado no capítulo 17 do curso HTML e CSS do Curso em Vídeo <br>
+    Link para acesso: https://matheuslufano.github.io/projeto-android/
  <img src="https://user-images.githubusercontent.com/149171375/285054496-28f4016a-073a-42ae-bec5-0e4a19bda557.png" >   
 </div>
 
-<h3>Página Para Entrar Em Contato 👤📱 </h3>
-Uma página com links para minhas redes sociais e para entrar em contato comigo 😁
-Acesse a página pelo link: https://matheuslufano.github.io/pagina-de-links/ 🔗
+<h2 align="center">Página Para Entrar Em Contato 👤📱 </h2>
+
+<div align="center"> <br>
+    Uma página com links para minhas redes sociais e para entrar em contato comigo 😁 <br>
+    Acesse a página pelo link: https://matheuslufano.github.io/pagina-de-links/ 🔗
+ <img src="https://github.com/matheuslufano/Matheuslufano/assets/149171375/04a60e52-cf1e-4142-a681-c0716352d71d" >   
+</div>
