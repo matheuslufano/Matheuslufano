@@ -1,4 +1,6 @@
-### Olá, me chamo Matheus S. Mota 🖖🏼
+<h1> Olá, me chamo Matheus S. Mota 🖖🏼</h1>
+Minhas redes socias:
+
 <a href="https://www.linkedin.com/in/matheus-santos-mota-ab35b0283/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )</a>
 <a href="mailto:matheuslufano93@gmail.com" target="_blank">![gnail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
@@ -13,7 +15,7 @@
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslufano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-## Tecnologias que eu uso:
+Tecnologias que eu uso:
 
 <dive style="display:inline_block"><br/>
     <a href="https://github.com/matheuslufano/Curso-de-Python"> <img align="center" alt="python3" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -24,3 +26,10 @@
 </dive> 
 
 Sou apaixonado por tecnologia, arte grafica e por café.
+<h1>Últimos projetos desenvolvist</h1>
+<h3>Projeto-Android 🤖</h3>
+Projeto Android criado no capítulo 17 do curso HTML e CSS do Curso em Vídeo <br>
+Link para acesso: https://matheuslufano.github.io/projeto-android/
+<h3>Página Para Entrar Em Contato 👤📱 </h3>
+Uma página com links para minhas redes sociais e para entrar em contato comigo 😁
+Acesse a página pelo link: https://matheuslufano.github.io/pagina-de-links/ 🔗
