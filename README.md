@@ -26,7 +26,7 @@ Tecnologias que eu uso:
 </dive> 
 
 Sou apaixonado por tecnologia, arte grafica e por café.
-<h3>Últimos projetos desenvolvist: </h3>
+<h3>Últimos projetos desenvolvidos: </h3>
 
 <h2 align="center">Projeto-Android 🤖</h2>
 
