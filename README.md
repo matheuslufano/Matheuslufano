@@ -30,6 +30,10 @@ Sou apaixonado por tecnologia, arte grafica e por café.
 <h3>Projeto-Android 🤖</h3>
 Projeto Android criado no capítulo 17 do curso HTML e CSS do Curso em Vídeo <br>
 Link para acesso: https://matheuslufano.github.io/projeto-android/
+<div align="center">
+ <img src="https://github.com/matheuslufano/Matheuslufano/issues/1#issue-2007175668" width="700px">   
+</div>
+
 <h3>Página Para Entrar Em Contato 👤📱 </h3>
 Uma página com links para minhas redes sociais e para entrar em contato comigo 😁
 Acesse a página pelo link: https://matheuslufano.github.io/pagina-de-links/ 🔗
