@@ -32,7 +32,7 @@ Sou apaixonado por tecnologia, arte grafica e por café.
 
 <div align="center"> <br>
     Projeto Potfólio para mostrar no que ando trabalhando<br>
-    Link para acessar: https://matheuslufano.github.io/portfolio/
+    Link para acessar: https://matheuslufano.github.io/Meu-Portfolio/
  <img src="https://github.com/matheuslufano/Matheuslufano/assets/149171375/dc2cef76-8ffb-42b4-b021-177eb234e024" >   
 </div>
 <h2 align="center">Projeto-Android 🤖</h2>
