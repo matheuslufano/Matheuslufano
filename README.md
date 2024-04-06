@@ -48,5 +48,5 @@ Sou apaixonado por tecnologia, arte grafica e por café.
 <div align="center"> <br>
     Uma página com links para minhas redes sociais e para entrar em contato comigo 😁 <br>
     Acesse a página pelo link: https://matheuslufano.github.io/pagina-de-links/ 🔗
- <img src="https://github.com/matheuslufano/Matheuslufano/assets/149171375/04a60e52-cf1e-4142-a681-c0716352d71d" >   
+ <img src="https://github.com/matheuslufano/Matheuslufano/assets/149171375/e5c5b7e8-90f8-47bb-8950-47eb058e7258" >   
 </div>
