@@ -6,7 +6,7 @@ Dev full stack
 
 🧔🏻‍♂️ 💻 Sou Analista de Sistemas! <br> 
 🎓 Curso Sistemas de Informação na Universidade IFTO - (TO) <br>
-(👉ﾟヮﾟ)👉 sou apaixonado por programar! <br>
+(👉ﾟヮﾟ)👉 Apaixonado por programação! <br>
 
 * 🌍  I'm based in Parais do Tocantins - TO
 * 🖥️  See my portfolio at [MyBio](http://matheuslufano.github.io/Meu-Portfolio/)
