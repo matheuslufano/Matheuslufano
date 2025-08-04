@@ -1,27 +1,28 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matheus Mota!
-===============================================================================================================================
+<h1 align="center">👋 Olá, eu sou Matheus Mota</h1>
 
-Dev full stack
---------------
+<p align="center">
+  💻 Programador | 🌍 Apaixonado por Tecnologia
+</p><br>
 
-🧔🏻‍♂️ 💻 Sou Analista de Sistemas! <br> 
-🎓 Curso Sistemas de Informação na Universidade IFTO - (TO) <br>
-(👉ﾟヮﾟ)👉 Apaixonado por programação! <br>
+---
 
-* 🌍  I'm based in Parais do Tocantins - TO
-* 🖥️  See my portfolio at [MyBio](http://matheuslufano.github.io/Meu-Portfolio/)
-* ✉️  You can contact me at [matheuslufano93@gmail.com](mailto:matheuslufano93@gmail.com)
-* 🧠  I'm learning React
+### 🧠 Sobre mim
 
-<a href="https://www.x.com/MLufano4696" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MLufano4696?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+- 💻 Analista de Sistemas em formação
+- 🎓 Estudante de **Sistemas de Informação - IFTO**
+- 🌍 Moro em Paraíso do Tocantins - TO
+- 🔭 Atualmente aprendendo **React Native**
+- 🎯 Apaixonado por tecnologia, design gráfico e café
+- 📫 Contato: [matheuslufano93@gmail.com](mailto:matheuslufano93@gmail.com)
+- 🌐 Portfólio: [Clique aqui para acessar](https://matheuslufano.github.io/Meu-Portfolio/)
 
-### Skills
+---
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,react,vite,figma,mysql,bootstrap,git,github,arduino)](https://skillicons.dev)<br><br>
 
 ### Socials
 
@@ -34,7 +35,9 @@ src="https://img.shields.io/twitter/follow/MLufano4696?logo=twitter&style=for-th
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslufano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-Sou apaixonado por tecnologia, arte grafica e por café.
+
+
+
 <h3>Últimos projetos desenvolvidos: </h3>
 
 <h2 align="center">Meu Portfólio 💻</h2>
